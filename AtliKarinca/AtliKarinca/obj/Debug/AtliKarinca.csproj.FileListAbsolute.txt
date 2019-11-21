@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\AtliKarinca\AtliKarinca\bin\Debug\AtliKarinca.exe.config
+C:\Users\Asus\source\repos\AtliKarinca\AtliKarinca\bin\Debug\AtliKarinca.exe
+C:\Users\Asus\source\repos\AtliKarinca\AtliKarinca\bin\Debug\AtliKarinca.pdb
+C:\Users\Asus\source\repos\AtliKarinca\AtliKarinca\obj\Debug\AtliKarinca.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\AtliKarinca\AtliKarinca\obj\Debug\AtliKarinca.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AtliKarinca\AtliKarinca\obj\Debug\AtliKarinca.exe
+C:\Users\Asus\source\repos\AtliKarinca\AtliKarinca\obj\Debug\AtliKarinca.pdb
